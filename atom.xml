@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-19T22:29:30.369Z</updated>
+  <updated>2021-07-20T14:39:27.302Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>咸鱼日记（二）</title>
+    <link href="http://example.com/2021/07/20/2021-7-20/"/>
+    <id>http://example.com/2021/07/20/2021-7-20/</id>
+    <published>2021-07-20T14:38:12.000Z</published>
+    <updated>2021-07-20T14:39:27.302Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录一些什么好呢？如果老是记流水账的话那就太没有意思了。&lt;/p&gt;
+&lt;p&gt;我曾经使用小米手机自带的备忘录陆陆续续的做每日计划与总结，但是这个习惯已经好几个月没有执行。经过查看，我一共记录了167个。大都是一些时间、任务的安排，就像这样</summary>
+    
+    
+    
+    
+    <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>咸鱼日记</title>
