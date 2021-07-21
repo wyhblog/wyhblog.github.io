@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-20T14:39:27.302Z</updated>
+  <updated>2021-07-21T14:15:27.826Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>咸鱼日记（三）</title>
+    <link href="http://example.com/2021/07/21/2021-7-21%E8%AE%B0/"/>
+    <id>http://example.com/2021/07/21/2021-7-21%E8%AE%B0/</id>
+    <published>2021-07-21T13:18:21.000Z</published>
+    <updated>2021-07-21T14:15:27.826Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;感觉生活就是个怪圈&quot;&gt;&lt;a href=&quot;#感觉生活就是个怪圈&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>咸鱼日记（二）</title>
